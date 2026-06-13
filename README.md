@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🐉 About Me:
 💻 Fullstack Developer focused on backend architecture, REST APIs, and system integrations<br><br>☁️ Experience with Node.js, TypeScript, PostgreSQL, Docker, AWS, and modern web technologies<br><br>📚 Fast learner, highly adaptable, and committed to continuous improvement<br><br>🌎 Seeking an international opportunity to contribute, grow, and deliver impactful solutions
 
 
